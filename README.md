@@ -1,2 +1,2 @@
 # JZabbix
-JZabbix is a Zabbix API framework using JAVA language, using Spring Boot for rapid configuration
+JZabbix is a Zabbix API framework using JAVA , using Spring Boot for rapid configuration
