@@ -1,0 +1,263 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "KF0OsLKSEe2XPAD-+E6xse": 2, 
+        "k-yOwLG2Ee2YRwD-+E6xsS": 1
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "0": {
+            "__tuple__": true, 
+            "items": [
+                1875570739, 
+                "New trigger"
+            ]
+        }, 
+        "3": {
+            "__tuple__": true, 
+            "items": [
+                1257107466, 
+                "Select Unit"
+            ]
+        }, 
+        "4": {
+            "__tuple__": true, 
+            "items": [
+                435048459, 
+                "Select Unit Group"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                1743675404, 
+                "Select Item"
+            ]
+        }, 
+        "6": {
+            "__tuple__": true, 
+            "items": [
+                602828813, 
+                "Select Destructible"
+            ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                2096021518, 
+                "Open Bag"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                384389137, 
+                "MOUSE MOVE"
+            ]
+        }, 
+        "9": {
+            "__tuple__": true, 
+            "items": [
+                1023295507, 
+                "on_hero_create"
+            ]
+        }, 
+        "10": {
+            "__tuple__": true, 
+            "items": [
+                2132029460, 
+                "on_hero_delete"
+            ]
+        }, 
+        "11": {
+            "__tuple__": true, 
+            "items": [
+                499355669, 
+                "\u5b50\u89e6\u53d1\u5668"
+            ]
+        }, 
+        "12": {
+            "__tuple__": true, 
+            "items": [
+                383975446, 
+                "on_hero_reborn"
+            ]
+        }, 
+        "13": {
+            "__tuple__": true, 
+            "items": [
+                2081886231, 
+                "on_hero_dead"
+            ]
+        }, 
+        "14": {
+            "__tuple__": true, 
+            "items": [
+                72462362, 
+                "change main unit"
+            ]
+        }, 
+        "15": {
+            "__tuple__": true, 
+            "items": [
+                1872433179, 
+                "t1"
+            ]
+        }, 
+        "16": {
+            "__tuple__": true, 
+            "items": [
+                2094870556, 
+                "t2"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                503767069, 
+                "t1_2"
+            ]
+        }, 
+        "18": {
+            "__tuple__": true, 
+            "items": [
+                36646942, 
+                "change main unit by hotkey"
+            ]
+        }, 
+        "19": {
+            "__tuple__": true, 
+            "items": [
+                291192863, 
+                "focu_on_select_unit"
+            ]
+        }, 
+        "20": {
+            "__tuple__": true, 
+            "items": [
+                459735072, 
+                "release_listener"
+            ]
+        }, 
+        "21": {
+            "__tuple__": true, 
+            "items": [
+                1302442017, 
+                "main_unit_skill_list_value_change"
+            ]
+        }, 
+        "22": {
+            "__tuple__": true, 
+            "items": [
+                651300900, 
+                "show_skill_tips"
+            ]
+        }, 
+        "23": {
+            "__tuple__": true, 
+            "items": [
+                1859280934, 
+                "show_inventory_tips"
+            ]
+        }, 
+        "24": {
+            "__tuple__": true, 
+            "items": [
+                416448551, 
+                "hide_tips"
+            ]
+        }, 
+        "25": {
+            "__tuple__": true, 
+            "items": [
+                649699366, 
+                "show_modifier_tips"
+            ]
+        }, 
+        "26": {
+            "__tuple__": true, 
+            "items": [
+                978677801, 
+                "show_store_tips"
+            ]
+        }, 
+        "27": {
+            "__tuple__": true, 
+            "items": [
+                1665630250, 
+                "sell_item"
+            ]
+        }, 
+        "28": {
+            "__tuple__": true, 
+            "items": [
+                863993900, 
+                "buy_item"
+            ]
+        }, 
+        "29": {
+            "__tuple__": true, 
+            "items": [
+                2010271789, 
+                "store_tab_click"
+            ]
+        }, 
+        "30": {
+            "__tuple__": true, 
+            "items": [
+                1523929134, 
+                "store_tab_down"
+            ]
+        }, 
+        "31": {
+            "__tuple__": true, 
+            "items": [
+                366354479, 
+                "store_tab_up"
+            ]
+        }, 
+        "32": {
+            "__tuple__": true, 
+            "items": [
+                1913552945, 
+                "minimap_btn1"
+            ]
+        }, 
+        "33": {
+            "__tuple__": true, 
+            "items": [
+                1897074738, 
+                "minimap_btn2"
+            ]
+        }, 
+        "34": {
+            "__tuple__": true, 
+            "items": [
+                2064273458, 
+                "show_bag_tips"
+            ]
+        }, 
+        "35": {
+            "__tuple__": true, 
+            "items": [
+                990195764, 
+                "fresh_sell_list"
+            ]
+        }, 
+        "36": {
+            "__tuple__": true, 
+            "items": [
+                524156982, 
+                "on_unit_dead"
+            ]
+        }, 
+        "37": {
+            "__tuple__": true, 
+            "items": [
+                210653238, 
+                "on_unit_delete"
+            ]
+        }
+    }
+}

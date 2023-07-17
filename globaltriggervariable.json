@@ -1,0 +1,669 @@
+{
+    "local_variable": {
+        "36646942": {
+            "variable_dict": {
+                "INTEGER": {
+                    "cindex": 0, 
+                    "rindex": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cindex": 0, 
+                "player": 0, 
+                "rindex": 0, 
+                "unit": 0
+            }
+        }, 
+        "72462362": {
+            "variable_dict": {
+                "INTEGER": {
+                    "cindex": 0, 
+                    "rindex": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cindex": 0, 
+                "rindex": 0
+            }
+        }, 
+        "132288546": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "BOOLEAN": {
+                    "boolean": false, 
+                    "is_shop_tips": false
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "ITEM_NAME": {
+                    "item_type": 0
+                }, 
+                "MODIFIER_ENTITY": {
+                    "modifier": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "boolean": 0, 
+                "is_shop_tips": 0, 
+                "item": 0, 
+                "item_type": 0, 
+                "modifier": 0, 
+                "player": 0, 
+                "skill": 0
+            }
+        }, 
+        "210653238": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "last_main_unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit_group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "last_main_unit": 0, 
+                "unit_group": 0
+            }
+        }, 
+        "333193219": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "is_bag_open": false
+                }
+            }, 
+            "variable_length_dict": {
+                "is_bag_open": 0
+            }
+        }, 
+        "366354479": {
+            "variable_dict": {
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "store unit": 0
+            }
+        }, 
+        "503767069": {
+            "variable_dict": {
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0
+            }
+        }, 
+        "524156982": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "last_main_unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit_group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "last_main_unit": 0, 
+                "unit_group": 0
+            }
+        }, 
+        "534593552": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "568463368": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "671428624": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "718082063": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0, 
+                    "n": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "n": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "734306311": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "bag_slot": 0, 
+                    "now_column": 0, 
+                    "now_row": 0
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "slot": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "bag_slot": 0, 
+                "now_column": 0, 
+                "now_row": 0, 
+                "slot": 0
+            }
+        }, 
+        "786112514": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "trig": 0
+                }, 
+                "INTEGER": {
+                    "hero_list_len": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "num": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "hour": "", 
+                    "min": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "hero_list_len": 0, 
+                "hour": 0, 
+                "i": 0, 
+                "min": 0, 
+                "n": 0, 
+                "num": 0, 
+                "trig": 0
+            }
+        }, 
+        "824414265": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5f53\u524d\u7f13\u52a8\u6218\u529b": 0, 
+                    "\u6570\u503c\u8df3\u52a8\u6700\u5c0f\u503c": 0, 
+                    "\u9700\u63d0\u5347\u6218\u6597\u529b": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u7f13\u52a8\u6218\u529b": 0, 
+                "\u6570\u503c\u8df3\u52a8\u6700\u5c0f\u503c": 0, 
+                "\u9700\u63d0\u5347\u6218\u6597\u529b": 0
+            }
+        }, 
+        "826462263": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "INTEGER": {
+                    "\u5f53\u524d\u7f13\u52a8\u6218\u529b": 0, 
+                    "\u6bcf\u6b21\u589e\u52a0\u6218\u6597\u529b": 0, 
+                    "\u9700\u63d0\u5347\u6218\u6597\u529b": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u7f13\u52a8\u6218\u529b": 0, 
+                "\u6bcf\u6b21\u589e\u52a0\u6218\u6597\u529b": 0, 
+                "\u9700\u63d0\u5347\u6218\u6597\u529b": 0
+            }
+        }, 
+        "828813355": {
+            "variable_dict": {
+                "FLOAT": {
+                    "time": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {
+                    "info": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "info": 0, 
+                "player": 0, 
+                "t": 0, 
+                "time": 0
+            }
+        }, 
+        "863993900": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "990195764": {
+            "variable_dict": {
+                "INTEGER": {
+                    "n": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "n": 0
+            }
+        }, 
+        "1039151122": {
+            "variable_dict": {
+                "FLOAT": {
+                    "pos": 0.0, 
+                    "tips_size": 0.0
+                }, 
+                "PLAYER": {
+                    "Player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Player": 0, 
+                "pos": 10, 
+                "tips_size": 10
+            }
+        }, 
+        "1270726670": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1302442017": {
+            "variable_dict": {
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "1325858865": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store_unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "player": 0, 
+                "store_unit": 0
+            }
+        }, 
+        "1393229841": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "destructible": 0
+                }, 
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "destructible": 0, 
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "1425182768": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "n": 0, 
+                    "new tab index": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "goods_index": 0, 
+                "n": 0, 
+                "new tab index": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1496309785": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "index": 0, 
+                    "row": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "row": 0
+            }
+        }, 
+        "1559846928": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "i": 0, 
+                    "index": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "t": 0, 
+                "unit": 0, 
+                "unit group": 0
+            }
+        }, 
+        "1585119271": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "buyer player": 0, 
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "buyer player": 0, 
+                "goods_index": 0, 
+                "i": 0, 
+                "n": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1665630250": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "1872433179": {
+            "variable_dict": {
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0
+            }
+        }, 
+        "2010271789": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "tab_index": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0, 
+                "i": 0, 
+                "player": 0, 
+                "store unit": 0, 
+                "tab_index": 0
+            }
+        }, 
+        "2079805465": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "cindex": 0, 
+                    "i": 0, 
+                    "rindex": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "cindex": 0, 
+                "i": 0, 
+                "player": 0, 
+                "rindex": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "INTEGER": {
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "\u73a9\u5bb6\u6218\u6597\u529b": 0, 
+            "\u73a9\u5bb6\u7f13\u52a8\u6218\u6597\u529b": 0
+        }, 
+        "TABLE": {
+            "UI_Manager": null
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u6218\u6597\u529b", 
+                "\u73a9\u5bb6\u6218\u6597\u529b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u7f13\u52a8\u6218\u6597\u529b", 
+                "\u73a9\u5bb6\u7f13\u52a8\u6218\u6597\u529b"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "UI_Manager": 0, 
+        "\u73a9\u5bb6\u6218\u6597\u529b": 0, 
+        "\u73a9\u5bb6\u7f13\u52a8\u6218\u6597\u529b": 0
+    }
+}

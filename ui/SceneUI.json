@@ -1,0 +1,96 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "5dc5f71f-96ec-4099-a352-aa93b7346973"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_2", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "902c6b5c-ac58-4453-88e1-d390dc7c01ce"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_3", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "cf912e6a-714e-4134-a606-4111723895da"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_4", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "b199519e-64d5-4fed-9053-617bf62678ab"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_5", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "63382998-92a2-4681-bdde-27ccd95181d2"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_6", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "a011c63e-9e5a-4a28-ac22-309fe646a781"
+        }
+    ], 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

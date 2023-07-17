@@ -1,0 +1,38 @@
+{
+    "#1e787e58-b22e-41fe-ae37-be7b3b6216cd#text": {
+        "key": "#1e787e58-b22e-41fe-ae37-be7b3b6216cd#text", 
+        "value": "\u7f13\u52a8\u6218\u529b"
+    }, 
+    "#23f1e652-1f79-4a4a-906b-60c04d5d9bb4#text": {
+        "key": "#23f1e652-1f79-4a4a-906b-60c04d5d9bb4#text", 
+        "value": ""
+    }, 
+    "#a086e5e5-69e6-41bd-b239-5f5bdf65c6cc#text": {
+        "key": "#a086e5e5-69e6-41bd-b239-5f5bdf65c6cc#text", 
+        "value": "\u5b9e\u9645\u6218\u529b"
+    }, 
+    "$code_camp_referee": {
+        "key": "$code_camp_referee", 
+        "value": "\u88c1\u5224"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "\u9635\u8425 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "\u4e2d\u7acb"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "\u73a9\u5bb6 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "\u4e2d\u7acb \u654c\u5bf9"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "\u4e2d\u7acb \u53cb\u5584"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1024": {}, 
+    "2048": {}, 
+    "4096": {}, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 30.0, 
+            "far": 1000.0, 
+            "focus_max_dist": 400.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": 0.0, 
+            "focus_y": 0.0, 
+            "focus_z": 0.0, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "pitch": 0.9773843811168246, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": null, 
+            "type": 32768, 
+            "yaw": 0.0
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}
+}
